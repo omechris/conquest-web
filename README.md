@@ -5,5 +5,5 @@ With this app you can
 - search on several Dicom tags such as Patient name, ID, Accession nr, date etc.;
 - manage the database;
 - view and download images in Jpeg format, annotaded as well as plain;
-- view and manipulate images using the build-in Dicom viewer;
+- view and manipulate images using the build-in Dicom viewer (https://github.com/OHIF/Viewers/tree/master/StandaloneViewer);
 - download studies / series including a valid DICOMDIR.
