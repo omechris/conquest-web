@@ -4,6 +4,6 @@ Using php, javascript, html5.
 With this app you can
 - search on several Dicom tags such as Patient name, ID, Accession nr, StudyDate etc.;
 - manage the database;
-- view and download images in Jpeg format, annotaded as well as plain;
+- view and download images in Jpeg format, annotated (overlay) as well as plain;
 - view and manipulate images using a build-in Dicom viewer (https://github.com/OHIF/Viewers/tree/master/StandaloneViewer);
-- download studies / series including a valid DICOMDIR.
+- download studies / series including a valid DICOMDIR and a freeware Dicom viewer (Microdicom).
